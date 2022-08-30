@@ -1,0 +1,5 @@
+Matplotlib Tutorial (Part 9): Plotting Live Data in Real-Time
+	Date: 2019. 6. 19
+	Author: Corey Schafer
+	Videos: https://youtu.be/Ercd-Ip5PfQ
+	Codes: https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Matplotlib/09-LiveData
