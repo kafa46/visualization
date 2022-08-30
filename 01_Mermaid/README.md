@@ -4,10 +4,10 @@
 |순번|제목|웹 문서|Youtube 링크|
 |:---|:---|:---:|:---|
 |1|Overview (훑어보기)|현재 문서|Overview 동영상|
-|2|Flow Chart (순서도)|[Click me](./docs/02_flowchart.md)|Flowchart 동영상|
-|3|Sequence Diagram (순차도)|[Click me](./intro.md)|Sequence diagram 동영상|
-|4|Class Diagram (클래스도)|[Click me](./docs/03_sequence_diagram.md)|Class diagram 동영상|
-|5|ER Diagram (객체관계도)|[Click me](./docs/05_er_diagram_practice.md)|ER Diagram 동영상|
+|2|Flow Chart (순서도)|[Click me](https://kafa46.github.io/mermaid/docs/02_01_flowchart.html)|Flowchart 동영상|
+|3|Sequence Diagram (순차도)|[Click me](https://kafa46.github.io/mermaid/docs/03_00_sequence_intro.html)|Sequence diagram 동영상|
+|4|Class Diagram (클래스도)|[Click me](https://kafa46.github.io/mermaid/docs/04_00_class_intro.html)|Class diagram 동영상|
+|5|ER Diagram (객체관계도)|[Click me](https://kafa46.github.io/mermaid/docs/05_00_er_diagram_intro.html)|ER Diagram 동영상|
 |6|강의 슬라이드 (.pdf)|[Click me](./docs/Mermaids%20Tutorials.pdf)|해당 없음|
 |7|E-book|[Click me](https://kafa46.github.io/mermaid/intro.html)|해당 없음|
 |||||
